@@ -1,37 +1,14 @@
-3D Builder
 Get-AppxPackage *3dbuilder* | Remove-AppxPackage
-
-Alarms & Clock
 Get-AppxPackage *WindowsAlarms* | Remove-AppxPackage
-
-App Connector
 Get-AppxPackage *Appconnector* | Remove-AppxPackage
-
-Asphalt 8:Airborne
 Get-AppxPackage *Asphalt8Airborne* | Remove-AppxPackage
-
-Calculator
 Get-AppxPackage *WindowsCalculator* | Remove-AppxPackage
-
-Calendar and Mail
 Get-AppxPackage *windowscommunicationsapps* | Remove-AppxPackage
-
-Camera
 Get-AppxPackage *WindowsCamera* | Remove-AppxPackage
-
-Candy Crush Soda Saga
 Get-AppxPackage *CandyCrushSodaSaga* | Remove-AppxPackage
-
-Drawboard PDF
 Get-AppxPackage *DrawboardPDF* | Remove-AppxPackage
-
-Facebook
 Get-AppxPackage *Facebook* | Remove-AppxPackage
-
-Farmville 2:Country Escape
 Get-AppxPackage *FarmVille2CountryEscape* | Remove-AppxPackage
-
-Feedback Hub
 Get-AppxPackage *WindowsFeedbackHub* | Remove-AppxPackage
 
 Get Office
